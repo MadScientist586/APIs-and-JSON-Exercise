@@ -15,3 +15,4 @@ C:\Users\Justin Martin\Desktop\Repos\C#\APIs-and-JSON-Exercise\APIsAndJSON\obj\D
 C:\Users\Justin Martin\Desktop\Repos\C#\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.pdb
 C:\Users\Justin Martin\Desktop\Repos\C#\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.genruntimeconfig.cache
 C:\Users\Justin Martin\Desktop\Repos\C#\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\ref\APIsAndJSON.dll
+C:\Users\Justin Martin\Desktop\Repos\C#\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\appsettings.json
